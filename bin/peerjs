@@ -19,7 +19,7 @@ var path = require('path')
         demand: false,
         alias: 't',
         description: 'timeout (milliseconds)',
-        default: 5000
+        default: 500000
       },
       ip_limit: {
         demand: false,
